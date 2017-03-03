@@ -1,0 +1,23 @@
+{
+    "slide1": {
+      "title": "Is this a title?",
+      "subtext": "I'm Not sure lol",
+      "image": "http://lorempixel.com/1200/600/business",
+      "cta": " ► Button",
+      "ctaURL": "#"
+    },
+    "slide2": {
+      "title": "Title 2",
+      "subtext": "yes it is",
+      "image": "http://lorempixel.com/1200/600/cats",
+      "cta": " ► Button",
+      "ctaURL": "#"
+    },
+    "slide3": {
+      "title": "And the third",
+      "subtext": "potato",
+      "image": "http://lorempixel.com/1200/600/sports",
+      "cta": " ► Button",
+      "ctaURL": "#"
+    }
+}

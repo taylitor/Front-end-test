@@ -1,0 +1,23 @@
+{
+    "slide1": {
+      "title": "third carousel3",
+      "subtext": "x text random",
+      "image": "http://lorempixel.com/1200/600/business",
+      "cta": " ► Button",
+      "ctaURL": "#"
+    },
+    "slide2": {
+      "title": "Is this a title?",
+      "subtext": "Not sure",
+      "image": "http://lorempixel.com/1200/600/cats",
+      "cta": " ► Button",
+      "ctaURL": "#"
+    },
+    "slide3": {
+      "title": "Is this a title?",
+      "subtext": "Not sure",
+      "image": "http://lorempixel.com/1200/600/sports",
+      "cta": " ► Button",
+      "ctaURL": "#"
+    }
+}

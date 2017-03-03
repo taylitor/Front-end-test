@@ -1,0 +1,18 @@
+{
+  "name": "fe_test",
+  "version": "1.0.0",
+  "description": "<ul> \t<li>jade</li> \t<li>sass -> auto-prefixer</li> \t<li>browser-sync</li> </ul>",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.18.8",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-jade": "^1.1.0",
+    "gulp-sass": "^2.3.2"
+  }
+}

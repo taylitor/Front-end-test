@@ -1,0 +1,23 @@
+{
+    "slide1": {
+      "title": "Title from second carousel",
+      "subtext": "awweee",
+      "image": "http://lorempixel.com/1200/600/business",
+      "cta": " ► Button",
+      "ctaURL": "#"
+    },
+    "slide2": {
+      "title": "Super Title",
+      "subtext": "cool subtext ",
+      "image": "http://lorempixel.com/1200/600/cats",
+      "cta": " ► Button",
+      "ctaURL": "#"
+    },
+    "slide3": {
+      "title": "Last Title",
+      "subtext": "this is the third",
+      "image": "http://lorempixel.com/1200/600/sports",
+      "cta": " ► Button",
+      "ctaURL": "#"
+    }
+}
