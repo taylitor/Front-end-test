@@ -1,23 +1,23 @@
 {
-    "slide1": {
-      "title": "third carousel3",
-      "subtext": "x text random",
+    "slides": [{
+      "title": "title 1 carousel 3",
+      "subtext": "I'm Not sure lol",
       "image": "http://lorempixel.com/1200/600/business",
       "cta": " ► Button",
       "ctaURL": "#"
     },
-    "slide2": {
-      "title": "Is this a title?",
-      "subtext": "Not sure",
+    {
+      "title": "title carousel 3",
+      "subtext": "yes it is",
       "image": "http://lorempixel.com/1200/600/cats",
       "cta": " ► Button",
       "ctaURL": "#"
     },
-    "slide3": {
-      "title": "Is this a title?",
-      "subtext": "Not sure",
+    {
+      "title": "title 1 carousel 3",
+      "subtext": "potato",
       "image": "http://lorempixel.com/1200/600/sports",
       "cta": " ► Button",
       "ctaURL": "#"
-    }
+    }]
 }

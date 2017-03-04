@@ -10,7 +10,7 @@ const multipage = false;
 
 const paths = {
 	root: '',
-	sass: 'build/sass',
+	sass: 'build/src/sass',
 	jade: 'build/jade',
 	css: 'app/css',
 	js: 'app/js'
